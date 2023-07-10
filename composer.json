@@ -1,0 +1,15 @@
+{
+    "name": "classificados/b7web",
+    "description": "estudo",
+    "autoload": {
+        "psr-4": {
+            "Classificados\\B7web\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elvyn.martins"
+        }
+    ],
+    "require": {}
+}
